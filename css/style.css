@@ -644,6 +644,16 @@ hr.rounded {
   margin-bottom: 19px;
 }
 
+#blog-main a h2 {
+  color: #ff4081;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 30px;
+  margin-top: 19px;
+  margin-bottom: 19px;
+  text-decoration: none;
+}
+
 #blog-main p {
   width: 516px;
   font-family: 'Ubuntu';
